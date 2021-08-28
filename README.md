@@ -23,6 +23,4 @@ I enjoy coding for fun😋 and making toy projects🎈.
 [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/RunoLight)
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/RunoLight)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=runolight&theme=blue-green)](https://github.com/RunoLight)
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
