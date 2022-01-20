@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a CS undergrad, C# Software Engineer in Russia. 
 Currently, I'm working for AppFox, focusing on creating beautiful Unity3d project.
-I enjoy coding for fun😋 and making toy projects🎈.
+I enjoy getting exprertise in Unity development and making pet projects🎈.
 
 - 🔭 I’m currently working on Unity
 - 🌱 I’m currently learning ECS and Zenject
