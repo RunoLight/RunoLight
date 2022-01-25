@@ -5,7 +5,7 @@ I enjoy getting exprertise in Unity development and making pet projects🎈.
   
 - 🔭 I’m currently working on Unity
 - 🌱 I’m currently learning ECS and Zenject
-- 💬 Ask me about anything
+- 💬 Ask me about anything!
 - 📫 How to reach me: telegram - @runolight
 
 [![Years Badge](https://badges.pufler.dev/years/runolight)](https://github.com/RunoLight)
