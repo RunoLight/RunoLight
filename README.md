@@ -24,5 +24,5 @@ I enjoy getting exprertise in Unity development and making pet projects🎈.
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/RunoLight)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  
-  
-[My CV](https://github.com/RunoLight/RunoLight/files/7957756/Vasily.Kuznetsov.CV.pdf)
+
+[My CV](https://github.com/RunoLight/RunoLight/files/8183720/Vasily.Kuznetsov.CV.2022.pdf)
