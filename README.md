@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a CS undergrad, C# Software Engineer in Russia.  
+I'm a Computer Science grad, C# Unity Software Engineer.  
 Currently, I'm working for AppFox, focusing on creating beautiful Unity3d project.  
 I enjoy getting exprertise in Unity development and making pet projects🎈.  
   
@@ -24,5 +24,3 @@ I enjoy getting exprertise in Unity development and making pet projects🎈.
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/RunoLight)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  
-
-[My CV](https://github.com/RunoLight/RunoLight/files/8183720/Vasily.Kuznetsov.CV.2022.pdf)
